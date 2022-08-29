@@ -1,6 +1,6 @@
 # READ FIST !
 
-I'm not de author, i found this article here: https://pastebin.com/2bBFijFY
+I'm not the author, i found this article here: https://pastebin.com/2bBFijFY
 
 # NET Commands
 Hello,
