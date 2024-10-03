@@ -1,3 +1,4 @@
-# csgo
+# counter-srike
 
-Configuration files
+
++exec autoexec.cfg
